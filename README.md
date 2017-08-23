@@ -12,7 +12,7 @@ Esse exemplo, visa demonstrar como manipular graficos no desenvolvimento de widg
 * Criação e manipulação de [dataset customizado](http://tdn.totvs.com/display/public/fluig/Desenvolvimento+de+Datasets) 
 * Construindo [gráficos](https://style.fluig.com/chart.html#about) estáticos com valores pré-definidos  p
 * Construindo gráficos dinâmicos a partir de datasets customizados
-* Utilizando o evento "Change" da javascript  na função Binding
+* Utilizando o evento "Change" do javascript na função Binding
 
 ### Origem do desenvolvimento
 
